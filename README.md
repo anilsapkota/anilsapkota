@@ -1,5 +1,6 @@
-### Hi there, I'm Anil 👋 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilsapkota&label=Profile%20views&color=0e75b6&style=flat" alt="anilsapkota" /> </p>
+
+### Hi there, I'm Anil 👋 
 
 
 ## I'm a Tinkerer, Developer, and Teacher!!
@@ -13,9 +14,10 @@
 ### Connect with me:
 
 [<img align="left" alt="medium.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
-[<img align="left" alt="sappyproduct | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="sappyproduct | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sappyproduct | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sappyproduct | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
+[<img align="left" alt="sappyproduct | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="sappyproduct | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+<img align="left" alt="sappyproduct | Medium" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />
 
 
 <br />
@@ -60,6 +62,7 @@
 ➡️ [more blog posts...](https://www.linkedin.com/in/anilsapkota/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilsapkota&show_icons=true&locale=en" alt="anilsapkota" /></p>
+
 
 
 [twitter]: https://twitter.com/sappyproduct
