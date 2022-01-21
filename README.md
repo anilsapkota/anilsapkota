@@ -37,14 +37,16 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Portfolio Videos and Tutorials
 
 <!-- YOUTUBE:START -->
 - [Virtual Reality Bowling Game vs Real Bowling Shot](https://youtu.be/kPQ5BCAoFco)
-- [Adding Checkpoint and CountDown to Car Race Game](https://www.youtube.com/watch?v=hj8kzm7t924&t=93s)
 - [XR App Design in Figma](https://www.youtube.com/watch?v=CQii6awv_6Q)
 - [Make a Digital Clock in Unity3d with C# ](https://www.youtube.com/watch?v=E43CvnUhQt4&t=46s)
 - [VR Room](https://www.youtube.com/watch?v=uNEyThyKb4k&t=1s)
+- [Adding Checkpoint and CountDown to Car Race Game](https://www.youtube.com/watch?v=hj8kzm7t924&t=93s)
+- [Sparty Bros Platformer Game in Unity3D](https://youtu.be/yfeifnPHm4Q)
+
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCpbGb4X4C1B_GKpdSb6ImgA/videosr)
