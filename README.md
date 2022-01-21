@@ -3,12 +3,12 @@
 ### Hi there, I'm Anil 👋 
 
 
-## I'm a Tinkerer, Developer, and Teacher!!
+## I'm an Entrepreneur, Developer, and Educator !!
 
 - 🔭 Critical Thinker who is biased for action
 - 🌱 I’m currently learning webGL and Blender.
 - 👯 I’m looking to collaborate with other content creators , educators as well. 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Create for XR and Blockchain realted learning videos.
 - ⚡ Fun fact: I love to capture moments of joy especially using VR device for first time.
 
 ### Connect with me:
