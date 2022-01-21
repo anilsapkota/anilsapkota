@@ -53,8 +53,7 @@
 
 ➡️ [more blog posts...](https://www.linkedin.com/in/anilsapkota/)
 
-</details>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilsapkota&show_icons=true&locale=en" alt="anilsapkota" /></p>
 
 
 [twitter]: https://twitter.com/sappyproduct
