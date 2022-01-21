@@ -40,6 +40,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+-[Virtual Reality Bowling Game vs Real Bowling Shot](https://youtu.be/kPQ5BCAoFco)
 - [Adding Checkpoint and CountDown to Car Race Game](https://www.youtube.com/watch?v=hj8kzm7t924&t=93s)
 - [XR App Design in Figma](https://www.youtube.com/watch?v=CQii6awv_6Q)
 - [Make a Digital Clock in Unity3d with C# ](https://www.youtube.com/watch?v=E43CvnUhQt4&t=46s)
