@@ -3,7 +3,7 @@
 ### Hi there, I'm Anil 👋 
 
 
-## I'm an Entrepreneur, Developer, and Educator !!
+## I'm an Learner and Educator
 
 - 🔭 Critical Thinker who is biased for action
 - 🌱 I’m currently learning  Blender and Python.
