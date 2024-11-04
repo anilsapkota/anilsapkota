@@ -6,7 +6,7 @@
 ## I'm an Learner and Educator
 
 - 🔭 Critical Thinker who is biased for action
-- 🌱 I’m currently learning  Blender and Python.
+- 🌱 I’m currently learning  Blender and Javascript.
 - 👯 I’m looking to collaborate with other content creators , educators as well. 
 - 🥅 2024 Goals: Drinking more water and teaching other people
 - ⚡ Fun fact: I love to capture moments of joy especially using VR device for first time.
